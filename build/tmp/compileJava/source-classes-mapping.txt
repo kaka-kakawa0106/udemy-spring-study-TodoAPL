@@ -1,0 +1,26 @@
+com/example/demo/service/TaskService.java
+ com.example.demo.service.TaskService
+com/example/demo/entity/TaskType.java
+ com.example.demo.entity.TaskType
+com/example/demo/entity/Task.java
+ com.example.demo.entity.Task
+com/example/demo/config/WebMvcConfig.java
+ com.example.demo.config.WebMvcConfig
+com/example/demo/repository/TaskDaoImpl.java
+ com.example.demo.repository.TaskDaoImpl
+com/example/demo/repository/TaskDao.java
+ com.example.demo.repository.TaskDao
+com/example/demo/service/TaskServiceImpl.java
+ com.example.demo.service.TaskServiceImpl
+com/example/demo/config/WebMvcControllerAdvice.java
+ com.example.demo.config.WebMvcControllerAdvice
+com/example/demo/service/TaskNotFoundException.java
+ com.example.demo.service.TaskNotFoundException
+com/example/demo/app/task/TaskForm.java
+ com.example.demo.app.task.TaskForm
+com/example/demo/WebToDoApplication.java
+ com.example.demo.WebToDoApplication
+com/example/demo/app/task/TaskController.java
+ com.example.demo.app.task.TaskController
+com/example/demo/app/SampleController.java
+ com.example.demo.app.SampleController
